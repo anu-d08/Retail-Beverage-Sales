@@ -19,7 +19,7 @@ Aggregated data using Excel formulas and PivotTables for reporting.
 
 **Deliverables**
 
-Excel Report: Retail_Beverage_Sales_Dashboard.xlsx
+Excel Report: [Retail_Beverage_Sales_Dashboard.xlsx](Retail_Beverage_Sales_Dashboard.xlsx)  
 
 Dashboard: Visual summary of KPIs and trends
 
@@ -29,11 +29,11 @@ Cleaned Data: Final dataset used for reporting
 
 Raw Sample: Small anonymized example dataset
 
-Dashboard Screenshot: Retail_Beverage_Sales.png
+Dashboard Screenshot: [Retail_Beverage_Sales.png](Retail_Beverage_Sales.png) 
 
-Insights Summary: Insights_Summary.pdf
+Insights Summary: [Insights_Summary.pdf](Insights_Summary.pdf)
 
-Data Preparation Steps: Data_Preparation_Steps.md
+Data Preparation Steps: [Data_Preparation_Steps.md](Data_Preparation_Steps.md)
 
 Note: The Excel file includes both raw (sample) and cleaned data for full visibility into the workflow.
 
