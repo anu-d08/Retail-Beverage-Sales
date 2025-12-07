@@ -45,7 +45,7 @@ Generated **$698.8K** in revenue from **149K** customers (Average bill: **$4.70*
 
 **Coffee and Bakery** items made up ~60% of overall sales.
 
-Locations **Hell’s Kitchen** and ** Astoria ** showed the strongest performance.
+Locations **Hell’s Kitchen** and **Astoria** showed the strongest performance.
 
 **Operational Recommendations**
 
