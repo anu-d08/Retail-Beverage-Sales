@@ -41,14 +41,14 @@ Note: The Excel file includes both raw (sample) and cleaned data for full visibi
 
 Generated **$698.8K** in revenue from **149K** customers (Average bill: **$4.70**).
 
-****7–10 AM** was the busiest period, with the highest customer volume.
+**7–10 AM** was the busiest period, with the highest customer volume.
 
-**Coffee and Bakery ** items made up ~60% of overall sales.
+**Coffee and Bakery** items made up ~60% of overall sales.
 
 Locations **Hell’s Kitchen** and ** Astoria ** showed the strongest performance.
 
-**Operational Recommendations
-**
+**Operational Recommendations**
+
 Increase staffing support during **morning rush hours** to reduce wait times.
 
 Highlight high-performing categories (Coffee, Bakery) in promotions.
