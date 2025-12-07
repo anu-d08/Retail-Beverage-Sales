@@ -1,73 +1,87 @@
-# ☕ Retail Beverage Sales & Operational Performance Report
+☕ **Retail Beverage Sales & Operational Performance Report**
 
-###  Objective
-Analyze sales trends, customer behavior, and operational efficiency across retail beverage categories to identify process optimization and revenue improvement opportunities.
+**Objective**
 
----
+Provide a clear, easy-to-read summary of key sales and operational metrics to help teams understand customer activity, product performance, and daily/weekly trends.
+This report supports decision-making for staffing, scheduling, and overall store operations.
 
-###  Data Preparation
-- Consolidated store-level transactional data for six months (Jan–Jun).
-- Cleaned null entries, standardized date/time formats, and validated product-category   mappings.
-- Created time intelligence fields (Hour, Weekday, Month) for dynamic analysis.
-- Aggregated sales, footfall, and order size metrics using Excel formulas and PivotTables.
+**Data Preparation**
 
----
+Cleaned and organized six months of transactional data (Jan–Jun).
 
-###  Deliverables
-- **Excel Report:** [Retail_Beverage_Sales_Dashboard.xlsx](Retail_Beverage_Sales_Dashboard.xlsx)  
-  *(Includes all components in one file)*  
-  - **Dashboard** → Visual summary of key KPIs and trends  
-  - **Summary** → Key insights, recommendations, and projected outcomes  
-  - **Cleaned_Retail_Beverage** → Final cleaned dataset used for visuals  
-  - **Raw_Beverage_Sample** → Small anonymized raw dataset sample  
+Standardized dates, categories, and product fields for accuracy.
 
-- **Dashboard Screenshot:** [Retail_Beverage_Sales.png](Retail_Beverage_Sales.png)  
-- **Insights Summary:** [Insights_Summary.pdf](Insights_Summary.pdf)  
-- **Data Preparation Steps:** [Data_Preparation_Steps.md](Data_Preparation_Steps.md)
+Removed duplicates and corrected inconsistent entries.
 
-> *Note: The Excel workbook consolidates both the raw (sample) and cleaned datasets  
-> for easy traceability and end-to-end workflow demonstration.*
+Created simple time-based fields (hour, weekday, month) for trend analysis.
 
+Aggregated data using Excel formulas and PivotTables for reporting.
 
-###  Key Insights
-- Revenue reached **$698.8K** from **149K customers** (Avg Bill: **$4.7**).  
-- **Morning hours (7–10 AM)** drove peak footfall and order volumes.  
-- **Coffee & Bakery** items generated ≈ 60 % of total sales.  
-- Locations *Hell’s Kitchen* and *Astoria* showed strongest performance.  
+**Deliverables**
 
----
+Excel Report: Retail_Beverage_Sales_Dashboard.xlsx
 
-###  Recommendations
-- Reallocate staffing during **morning rush hours** to improve service throughput.  
-- Prioritize high-margin categories (Coffee, Bakery) in promotions.  
-- Use footfall patterns to optimize store scheduling and reduce idle time.  
+Dashboard: Visual summary of KPIs and trends
 
----
+Summary: Key findings and operational insights
 
-###  Projected Outcomes
-- Improve operational efficiency by **10–12 %**.  
-- Reduce under-utilized labor hours by **≈ 15 %**.  
-- Boost customer satisfaction and repeat orders through data-driven scheduling.
+Cleaned Data: Final dataset used for reporting
 
----
+Raw Sample: Small anonymized example dataset
 
-###  Tools Used
-- **Microsoft Excel:** Dashboard visualization, KPI calculations, and data modeling.  
-- **Power Query:** Data cleaning and transformation.  
-- **PivotCharts & Slicers:** Interactive filtering by month, weekday, and hour.
+Dashboard Screenshot: Retail_Beverage_Sales.png
 
----
+Insights Summary: Insights_Summary.pdf
 
-###  Data Disclaimer: The raw dataset included here is a small anonymized sample with synthetic IDs created for demonstration.  
- Full raw data is excluded to maintain confidentiality.
- 
-**Author:** Anu D  
-*Data Analyst | Process Optimization & Reporting* 
- April 2025
+Data Preparation Steps: Data_Preparation_Steps.md
 
----
+Note: The Excel file includes both raw (sample) and cleaned data for full visibility into the workflow.
 
-### 🔖 Tags
-`#DataAnalytics`  `#BusinessAnalysis`  `#OperationsOptimization`  `#ExcelDashboard`
+**Key **Insights****
 
- 
+Generated **$698.8K** in revenue from **149K** customers (Average bill: **$4.70**).
+
+****7–10 AM** was the busiest period, with the highest customer volume.
+
+**Coffee and Bakery ** items made up ~60% of overall sales.
+
+Locations **Hell’s Kitchen** and ** Astoria ** showed the strongest performance.
+
+**Operational Recommendations
+**
+Increase staffing support during **morning rush hours** to reduce wait times.
+
+Highlight high-performing categories (Coffee, Bakery) in promotions.
+
+Use hourly footfall trends to optimize scheduling and reduce idle labor time.
+
+**Expected Benefits**
+
+Improved workflow efficiency by **10–12%**.
+
+Reduction in under-utilized labor hours by **~15%**.
+
+Better customer experience through data-driven scheduling and availability.
+
+**Tools Used**
+
+**Microsoft Excel** : Charts, PivotTables, KPI calculations
+
+**Power Query**: Basic data cleaning
+
+**Interactive Elements**: Slicers and filters for month/weekday/hour
+
+**Data Disclaimer**
+
+This project uses anonymized and sample data for demonstration purposes.
+Full raw data is excluded for confidentiality.
+
+Author
+
+Anu D
+Operations & Reporting Analyst
+April 2025
+
+🔖 Tags
+
+#ExcelDashboard #OperationsReporting #KPITracking #DataCleaning
