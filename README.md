@@ -31,7 +31,7 @@ Raw Sample: Small anonymized example dataset
 
 Dashboard Screenshot: [Retail_Beverage_Sales.png](https://github.com/anu-d08/Retail-Beverage-Sales/blob/main/Dashboard%20Screenshot/Retail_Beverage_Screenshot.png) 
 
-Insights Summary: [Insights_Summary.pdf](Insights_Summary.pdf)
+Insights Summary: [Insights_Summary.pdf](https://github.com/anu-d08/Retail-Beverage-Sales/blob/main/Insights_Summary.pdf)
 
 Data Preparation Steps: [Data_Preparation_Steps.md](Data_Preparation_Steps.md)
 
