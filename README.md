@@ -19,7 +19,7 @@ Aggregated data using Excel formulas and PivotTables for reporting.
 
 **Deliverables**
 
-Excel Report: [Retail_Beverage_Sales_Dashboard.xlsx](Retail_Beverage_Sales_Dashboard.xlsx)  
+Excel Report: [Retail_Beverage_Sales_Dashboard.xlsx](https://github.com/anu-d08/Retail-Beverage-Sales/tree/main/Excel%20Report)  
 
 Dashboard: Visual summary of KPIs and trends
 
