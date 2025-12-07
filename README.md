@@ -33,7 +33,7 @@ Dashboard Screenshot: [Retail_Beverage_Sales.png](https://github.com/anu-d08/Ret
 
 Insights Summary: [Insights_Summary.pdf](https://github.com/anu-d08/Retail-Beverage-Sales/blob/main/Insights_Summary.pdf)
 
-Data Preparation Steps: [Data_Preparation_Steps.md](Data_Preparation_Steps.md)
+Data Preparation Steps: [Data_Preparation_Steps.md](https://github.com/anu-d08/Retail-Beverage-Sales/blob/main/Data_Preparation_Steps.md)
 
 Note: The Excel file includes both raw (sample) and cleaned data for full visibility into the workflow.
 
