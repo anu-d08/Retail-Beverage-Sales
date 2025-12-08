@@ -19,8 +19,6 @@ Aggregated data using Excel formulas and PivotTables for reporting.
 
 **Deliverables**
 
-Excel Report: [Retail_Beverage_Sales_Dashboard.xlsx](https://github.com/anu-d08/Retail-Beverage-Sales/tree/main/Excel%20Report)  
-
 Dashboard: Visual summary of KPIs and trends
 
 Summary: Key findings and operational insights
@@ -34,6 +32,8 @@ Dashboard Screenshot: [Retail_Beverage_Sales.png](https://github.com/anu-d08/Ret
 Insights Summary: [Insights_Summary.pdf](https://github.com/anu-d08/Retail-Beverage-Sales/blob/main/Insights_Summary.pdf)
 
 Data Preparation Steps: [Data_Preparation_Steps.md](https://github.com/anu-d08/Retail-Beverage-Sales/blob/main/Data_Preparation_Steps.md)
+
+Excel Report: [Retail_Beverage_Sales & Operational_Dashboard.xlsx](https://github.com/anu-d08/Retail-Beverage-Sales/tree/main/Excel%20Report)  
 
 Note: The Excel file includes both raw (sample) and cleaned data for full visibility into the workflow.
 
